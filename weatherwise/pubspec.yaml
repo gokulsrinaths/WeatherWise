@@ -1,0 +1,55 @@
+name: weatherwise
+description: "A new Flutter project."
+publish_to: "none"
+version: 0.1.0
+
+environment:
+  sdk: ">=3.2.4 <4.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  http: ^0.13.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/WeatherLogo.png
+    - assets/extremely_cold.png
+    - assets/very_cold.png
+    - assets/cold.png
+    - assets/mild.png
+    - assets/warm.png
+    - assets/hot.png
+    - assets/extremely_hot.png
+    - assets/porridge_image.png
+    - assets/stew_image.png
+    - assets/spaghetti_carbonara.png
+    - assets/pastry_image.png
+    - assets/pizza_image.png
+    - assets/burger_image.png
+    - assets/caesar_salad.png
+    - assets/blt_sandwich.png
+    - assets/chicken_image.png
+    - assets/tacos_image.png
+    - assets/burrito_image.png
+    - assets/pasta_salad_image.png
+    - assets/gyros_image.png
+    - assets/california_roll.png
+    - assets/barbecue_chicken.png
+    - assets/cobb_salad.png
+    - assets/smoothie_image.png
+    - assets/fruit_salad_image.png
+    - assets/ice_cream_image.png
+    - assets/cold_salad_image.png
+    - assets/gazpacho_image.png
+    - assets/poke_bowl_image.png
+    - assets/mango_lassi_image.png
+    - assets/tropical_smoothie.png
+    - assets/mint_chocolate_chip_ice_cream.png
+    - assets/cucumber_salad.png
